@@ -12,7 +12,7 @@ El proyecto se centra en los siguientes apartados principales y con el siguiente
 -> Importacion de las librerias
 -> Carga de los datos
 -> Transformacion de los datos (incluye algunas graficas que no se usaron el el documento)
--> Analisis individula de cada una de las caracteristicas
+-> Analisis individual de cada una de las caracteristicas
 -> MODELOS
 -> SELECCION DE CARACTERISTICAS POR SBS DE LOS 3 MEJORES MODELOS
 
